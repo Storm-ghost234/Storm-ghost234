@@ -1,7 +1,7 @@
 # <p align="center">Привітик, я Storm! ⛈️</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Storm-ghost234&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 </p>
 
 - Спеціальні мови: Pawn (майстер серверних скриптів) 🦾
-- Займався налаштуваням MySQL
+- Бази даних: Досвід налаштування та роботи з MySQL 📊
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 📊 Моя активність (Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Storm-ghost234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 ---
